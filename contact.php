@@ -97,11 +97,11 @@ an error sending your message. Please try again later.</div>';
 
     <p align="right" class="top-quote">Are you a Chiropractor?<br> 
 
-      <a href="https://yourwebsitename.com/apply-to-be-listed.html"><strong>Apply to be Listed Here</strong></a></p>
+      <a href="/apply-to-be-listed.html"><strong>Apply to be Listed Here</strong></a></p>
 
     <!--Website Logo-->
 
-      <a href="https://yourwebsitename.com/"><img alt="chiropractors-logo" class="logo img-responsive" src="images/chiropractors-logo-img.png"></a>
+      <a href="/"><img alt="chiropractors-logo" class="logo img-responsive" src="images/chiropractors-logo-img.png"></a>
 
         <p class="tagline">RDU Chiropractors</p>
 
@@ -270,11 +270,11 @@ an error sending your message. Please try again later.</div>';
 
     <div align="center" class="footerlinks">
 
-      <a href="https://yourwebsitename.com/apply-to-be-listed.html">APPLY TO BE LISTED</a> 
+      <a href="/apply-to-be-listed.html">APPLY TO BE LISTED</a> 
 
-      <a href="https://yourwebsitename.com/blog.html">BLOG</a> 
+      <a href="/blog.html">BLOG</a> 
 
-      <a href="https://yourwebsitename.com/contact.php">CONTACT</a>
+      <a href="/contact.php">CONTACT</a>
 
     </div><!-- /footerlinks-->
 
@@ -287,8 +287,8 @@ an error sending your message. Please try again later.</div>';
 
     <div align="center" class="policy-links">
 
-      <a href="https://yourwebsitename.com/privacy-policy.html" rel="nofollow">Privacy Policy</a> 
-      <a href="https://yourwebsitename.com/terms-and-conditions.html" rel="nofollow">Terms &amp; Conditions</a>
+      <a href="/privacy-policy.html" rel="nofollow">Privacy Policy</a> 
+      <a href="/terms-and-conditions.html" rel="nofollow">Terms &amp; Conditions</a>
 
     </div><!-- /.policy-links-->
 
