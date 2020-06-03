@@ -103,68 +103,95 @@ an error sending your message. Please try again later.</div>';
 
       <a href="https://yourwebsitename.com/"><img alt="chiropractors-logo" class="logo img-responsive" src="images/chiropractors-logo-img.png"></a>
 
-        <p class="tagline">Chiropractors in Seattle</p>
+        <p class="tagline">RDU Chiropractors</p>
 
   </div><!-- /.top-banner-->
 
-  <nav class="navbar navbar-default navbar-static-top" id="topnavbar" role="navigation">
+  <nav
+      class="navbar navbar-default navbar-static-top"
+      id="topnavbar"
+      role="navigation"
+    >
+      <div class="container">
+        <div class="navbar-header">
+          <button
+            class="navbar-toggle"
+            data-target=" .navbar-collapse"
+            data-toggle="collapse"
+            type="button"
+          >
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+        <!--end navbar-header-->
 
-    <div class="container">
-
-      <div class="navbar-header">
-
-        <button class="navbar-toggle" data-target=" .navbar-collapse" data-toggle="collapse" type="button">
-
-            <span class="sr-only">Toggle navigation</span> 
-                <span class="icon-bar"></span> 
-                <span class="icon-bar"></span> 
-                <span class="icon-bar"></span>
-
-        </button>
-
-      </div><!-- /.navbar-header-->
-
-      <div align="center" class="collapse navbar-collapse">
-
-        <ul class="nav navbar-nav">
-
+        <div align="center" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
             <li class="dropdown">
+              <p
+                aria-expanded="false"
+                aria-haspopup="true"
+                class="dropdown-toggle highlighted"
+                data-toggle="dropdown"
+                role="button"
+              >
+                VIEW CHIROPRACTORS <span class="caret"></span>
+              </p>
 
-              <p aria-expanded="false" aria-haspopup="true" class="dropdown-toggle highlighted" data-toggle="dropdown" role="button">VIEW CHIROPRACTORS <span class="caret"></span></p>
+              <ul class="dropdown-menu">
+                <li>
+                  <a href="/chiropractors-raleigh.html">Downtown Raleigh</a>
+                </li>
 
-                <ul class="dropdown-menu">
+                <li class="divider" role="separator"></li>
 
-                  <li><a href="https://yourwebsitename.com/chiropractors-capitol-hill.html">CAPITOL HILL</a></li>
+                <li>
+                  <a href="/chiropractors-cary.html">Cary</a>
+                </li>
 
-                    <li class="divider" role="separator"></li>
+                <li class="divider" role="separator"></li>
 
-                  <li><a href="https://yourwebsitename.com/chiropractors-mount-baker.html">MOUNT BAKER</a></li>
+                <li>
+                  <a href="/chiropractors-durham.html">Durham</a>
+                </li>
 
-                    <li class="divider" role="separator"></li>
+                <li class="divider" role="separator"></li>
 
-                  <li><a href="https://yourwebsitename.com/chiropractors-greenwood.html">GREENWOOD</a></li>
+                <li>
+                  <a href="/chiropractors-wake-forest.html">Wake Forest</a>
+                </li>
+              </ul>
+            </li>
+            <!--- /.dropdown-->
 
-                    <li class="divider" role="separator"></li>
+            <li>
+              <a href="/apply-to-be-listed.html"
+                ><span class="hvr-underline-from-center"
+                  >APPLY TO BE LISTED</span
+                ></a
+              >
+            </li>
 
-                  <li><a href="https://yourwebsitename.com/chiropractors-ravenna.html">RAVENNA</a></li>
-            
-                </ul>
+            <li>
+              <a href="/blog.html"
+                ><span class="hvr-underline-from-center">BLOG</span></a
+              >
+            </li>
 
-            </li><!--- /.dropdown-->
-
-            <li><a href="https://yourwebsitename.com/apply-to-be-listed.html"><span class="hvr-underline-from-center">APPLY TO BE LISTED</span></a></li>
-
-            <li><a href="https://yourwebsitename.com/blog.html"><span class="hvr-underline-from-center">BLOG</span></a></li>
-
-            <li><a href="https://yourwebsitename.com/contact.php"><span class="hvr-underline-from-center">CONTACT</span></a></li>
-
-        </ul>
-
-      </div><!-- /.navbar-collapse-->
-
-    </div><!-- /.conatiner-->
-
-  </nav><!-- /nav-->
+            <li>
+              <a href="/contact.php"
+                ><span class="hvr-underline-from-center">CONTACT</span></a
+              >
+            </li>
+          </ul>
+        </div>
+        <!--end navbar-collapse-->
+      </div>
+      <!--end conatiner-->
+    </nav><!-- /nav-->
 
   
   <div class="contact-banner">
